@@ -1,3 +1,0 @@
-name: samlCognitoAuthenticator
-runtime: python
-description: SAML based Authentication system using Okta along with Cognito
